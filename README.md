@@ -1,29 +1,12 @@
 # LTCB-L01 Project Repository
-
+Trần Quang Huy 
+ID: AT210326
 ---
-
-## 🌟 Overview
-Welcome to the **LTCB-L01** project repository! This repository contains a collection of C programming exercises and solutions created as part of a learning journey. The goal is to practice and showcase various programming concepts through practical examples.
-
----
-
-## 📋 Table of Contents
-- [Features](#features)
-- [Exercises](#exercises)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
-## 🚀 Features
-- Well-structured C code for educational purposes.
-- Solutions to mathematical and logical problems.
-- Clear and concise implementation.
-- Regularly updated with new exercises.
-
+╔════════════════════════════╗
+║    🄲🄸🄿🄷🄴🅁🄴🄳 🅃🄴🅁🅁🄸🅃🄾🅁🅈    ║
+╠════════════════════════════╣
+║  [MΛLWΛRΞ HUNTER] [RΞVΞRSΞ ΞNGINΞΞR]  ║
+╚════════════════════════════╝
 ---
 
 ## 📚 Exercises
@@ -44,4 +27,4 @@ Welcome to the **LTCB-L01** project repository! This repository contains a colle
 ## 💻 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/LTCB-L01.git
+   git clone https://github.com/Git-Huy-cyber/LTCB-L01.git
